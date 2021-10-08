@@ -1,0 +1,2 @@
+# Taller-Aprendizaje-Estadistico
+Modelo de Regresión Lineal Regularizada orientado a la predicción de la temperatura crítica de materiales superconductores; Regresión Lineal, Regresión Ridge, Regresión Lasso y Elastic Net.  Por otro lado, modelo de Clasificación para predecir si un proceso en el Acelerador de Hadrones Produce partículas supersimétricas o no, conocido como procesos SUSY. Se implementaron modelos como Regresión Logística, Árbol de Decisión y SVC Máquina de Sporte Vectorial para clasificar. 
